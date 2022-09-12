@@ -11,7 +11,7 @@
 Button.py
 
 Модуль контроллера
-mModyl1.py
+Modyl1.py
 
 Модуль сортировки
 sortirivka dannex.py
