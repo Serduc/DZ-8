@@ -20,4 +20,4 @@ sortirivka dannex.py
 read_file_stydent.py
 
 Модуль просмотра (UI)
-viev file_stydent.py
+viev BD.py
